@@ -5,3 +5,4 @@ res://addons/ThemeGenerator/Themes/SetupScene.tres
 res://MainTheme.tscn
 res://addons/ThemeGenerator/Themes/DEFAULT.tres
 res://addons/ThemeGenerator/plugin.cfg
+res://addons/ThemeGenerator/Scripts/ThemePrefab.gd

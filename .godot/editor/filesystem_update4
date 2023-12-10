@@ -1,0 +1,7 @@
+res://addons/ThemeGenerator/SetupScene.tscn
+res://addons/ThemeGenerator/Scripts/InternalController.gd
+res://addons/ThemeGenerator/Scripts/ThemeGeneratorSceneInterface.gd
+res://addons/ThemeGenerator/Themes/SetupScene.tres
+res://MainTheme.tscn
+res://addons/ThemeGenerator/Themes/DEFAULT.tres
+res://addons/ThemeGenerator/plugin.cfg

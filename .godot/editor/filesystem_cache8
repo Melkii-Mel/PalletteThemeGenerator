@@ -1,0 +1,14 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1702185180
+icon.svg::CompressedTexture2D::9014597427673694085::1702145250::1702145256::1::::<><>::
+MainTheme.tscn::PackedScene::6427901808612848520::1702145389::0::1::::<><>::
+::res://addons/::1702145480
+::res://addons/ThemeGenerator/::1702148304
+plugin.cfg::TextFile::-1::1702145480::0::1::::<><>::
+SetupScene.tscn::PackedScene::1823525945902626774::1702148304::0::1::::<><>::res://addons/ThemeGenerator/Scripts/ThemeGeneratorSceneInterface.gd<>res://addons/ThemeGenerator/Scripts/InternalController.gd
+ThemeGenerator.gd::GDScript::-1::1702147503::0::1::::<>EditorPlugin<>::
+::res://addons/ThemeGenerator/Scripts/::1702148304
+InternalController.gd::GDScript::-1::1702148304::0::1::::<>Node<>::
+Pallette.gd::GDScript::-1::1702145781::0::1::::Palette<>Resource<>::
+ThemeGeneratorSceneInterface.gd::GDScript::-1::1702148123::0::1::::ThemeGeneratorSceneInterface<>Control<>::
+::res://addons/ThemeGenerator/Themes/::1702148097
